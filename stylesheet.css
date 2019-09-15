@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
 
 body {
-  font-family: 'Dancing Script', cursive;
-
+  font-family: 'Shadows Into Light', cursive;
  
 }
-p{ font size:25  
+p { 
+  font size: 25px;
   
+}  
